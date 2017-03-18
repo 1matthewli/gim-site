@@ -12,7 +12,7 @@ Your project's elevator speech should be a single paragraph that states clearly 
  --- | --- 
  3/24/17 | End-to-end connectivity with API (dummy data)
  | Deploy project status site
- | User creation and user persistence (including auth)|
+ | User creation and user persistence (including auth)
  3/31/17 | Video search
  | Video upload
  4/7/17 | Voting system
@@ -22,7 +22,3 @@ Your project's elevator speech should be a single paragraph that states clearly 
  5/5/17 | Beta phase
  5/14/17 | Project complete
 
-
-<!-- ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->

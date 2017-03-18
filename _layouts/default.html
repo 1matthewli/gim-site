@@ -14,12 +14,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1>Application Name</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
-        {% endif %}
 
         {% if site.github.is_user_page %}
           <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
@@ -27,11 +23,13 @@
 
         <p><h3><strong> Team Members </strong></h3></p>
         <p>
-          Gordon Chu<br>
-          Ioannis Karakozis<br>
-          Matthew Li
+          Gordon Chu <small><em> (gachu@) </em></small> <br>
+          Ioannis Karakozis <small><em> (ick@) </em></small> <br>
+          Matthew Li <small><em> (ml25@) </em> [Project Leader] </small><br><br>
+          Advisor Name <small><em> (netid@) </em> [Project Manager]</small>
         </p>
-
+        <p><h3><strong> Resources </strong></h3></p>
+        The design document for this project can be found <a>here</a>. For any additional information about this project, feel free to contact any of us!
       </header>
       <section>
 
@@ -39,8 +37,11 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
+<!--         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %} -->
+        {% if site.github.is_project_page %}
+          <p class="view"><a href="{{ site.github.repository_url }}">View this repository on GitHub <small>{{ github_name }}</small></a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages</small></p>
       </footer>

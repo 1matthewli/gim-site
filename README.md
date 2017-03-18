@@ -1,4 +1,4 @@
-## What is Application Name?
+## What is Purview?
 
 Once you have submitted your design document, a link to it should be included. Additionally, a list of the milestones timeline from that document should be included in HTML form on your website, along with adjustments to the timeline as the project progresses and the goals shift.
 

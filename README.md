@@ -12,7 +12,7 @@ Your project's elevator speech should be a single paragraph that states clearly 
  --- | --- 
  3/24/17 | End-to-end connectivity with API (dummy data)
  | Deploy project status site
- | User creation and user persistence (including auth)
+ | User creation and user persistence (including auth)|
  3/31/17 | Video search
  | Video upload
  4/7/17 | Voting system

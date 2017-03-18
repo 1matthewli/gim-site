@@ -8,17 +8,17 @@ Your project's elevator speech should be a single paragraph that states clearly 
 
 ### Milestones Timeline
 
- Date | Features
- --- | --- 
- 3/24/17 | End-to-end connectivity with API (dummy data)
- | Deploy project status site
- | User creation and user persistence (including auth)
- 3/31/17 | Video search
- | Video upload
- 4/7/17 | Voting system
- | Hall of fame
- 4/14/17 | Prototype
- 4/28/17 | Alpha phase
- 5/5/17 | Beta phase
- 5/14/17 | Project complete
+ Date | Features | Status 
+ --- | --- | ---
+ 3/24/17 | End-to-end connectivity with API | __*In progress*__
+ | Project status site | **Completed**
+ | User creation and persistence | __*In progress*__
+ 3/31/17 | Video search | *Not started*
+ | Video upload | *Not started*
+ 4/7/17 | Voting system | *Not started*
+ | Hall of fame | *Not started*
+ 4/14/17 | Prototype version | *Not started*
+ 4/28/17 | Alpha phase | *Not started*
+ 5/5/17 | Beta phase | *Not started*
+ 5/14/17 | Project complete | *Not started*
 

@@ -11,12 +11,12 @@ Your project's elevator speech should be a single paragraph that states clearly 
  Date | Features
  --- | --- 
  3/24/17 | End-to-end connectivity with API (dummy data)
- | Deploy project status site
- | User creation and user persistence (including auth)
+ :| Deploy project status site
+ :| User creation and user persistence (including auth)
  3/31/17 | Video search
- | Video upload
+ :| Video upload
  4/7/17 | Voting system
- | Hall of fame
+ :| Hall of fame
  4/14/17 | Prototype
  4/28/17 | Alpha phase
  5/5/17 | Beta phase

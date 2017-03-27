@@ -10,7 +10,7 @@ Your project's elevator speech should be a single paragraph that states clearly 
 
  Date | Features | Status 
  --- | --- | ---
- 3/24/17 | End-to-end connectivity with API | __*Completed*__
+ 3/24/17 | End-to-end connectivity with API | **Completed**
  | Project status site | **Completed**
  | User creation and persistence | __*In progress*__
  3/31/17 | Video search | *Not started*
